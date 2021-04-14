@@ -1,4 +1,4 @@
-const InyectHTML = ( )=>{
+const InyectHTML = ()=>{
 
 
     const Controler = async (el,url)=>{
